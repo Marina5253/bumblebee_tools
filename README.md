@@ -1,6 +1,6 @@
-# to_do_app
+# Bumblebee Tools
 
-A new Flutter project.
+Simple Flutter app
 
 ## Getting Started
 
